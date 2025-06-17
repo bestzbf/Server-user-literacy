@@ -1,8 +1,4 @@
-# Server-user-literacy
-服务器用户指南
-
-
-# 服务器用户扫盲
+# 服务器用户指南
 
 用户数据在/home/你的名字缩写 （如/home/zbf）
 
